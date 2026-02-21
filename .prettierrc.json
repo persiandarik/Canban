@@ -1,9 +1,13 @@
 {
+  "printWidth": 80,
+  "proseWrap": "always",
+
   "plugins": ["@trivago/prettier-plugin-sort-imports"],
   "importOrder": [
     "^(vite|@vitejs)(/(.*))?$",
     "^(react|react-dom)(/(.*))?$",
     "^react-router(/(.*))?$",
+    "^react-error-boundary(/(.*))?$",
     "^@tanstack(/(.*))?$",
     "^react-toastify(/(.*))?$",
     "^clsx(/(.*))?$",
