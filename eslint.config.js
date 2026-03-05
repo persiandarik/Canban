@@ -26,6 +26,7 @@ export default [
     },
     rules: {
       ...js.configs.recommended.rules,
+      "no-unused-vars": "off",
       "@typescript-eslint/explicit-function-return-type": "error",
       "@typescript-eslint/explicit-member-accessibility": "error",
       "@typescript-eslint/no-unused-vars": "warn",
