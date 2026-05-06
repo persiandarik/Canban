@@ -12,6 +12,7 @@
     "^@tanstack(/(.*))?$",
     "^@dnd-kit(/(.*))?$",
     "^react-toastify(/(.*))?$",
+    "^zod(/(.*))?$",
     "^clsx(/(.*))?$",
     "<THIRD_PARTY_MODULES>",
     "^@/api",
