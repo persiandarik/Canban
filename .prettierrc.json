@@ -9,6 +9,7 @@
     "^react-router(/(.*))?$",
     "^react-error-boundary(/(.*))?$",
     "^(immer|use-immer)(/(.*))?$",
+    "^zustand(/(.*))?$",
     "^@tanstack(/(.*))?$",
     "^@dnd-kit(/(.*))?$",
     "^react-toastify(/(.*))?$",
