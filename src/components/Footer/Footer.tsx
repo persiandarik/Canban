@@ -6,6 +6,8 @@ export default function Footer(): ReactNode {
   const year = new Date().getFullYear();
 
   return (
-    <footer className={styles.footer}>Copyright &copy; {year} canban.ir</footer>
+    <footer className={styles.footer}>
+      Copyright &copy; {year} canban.persiandarik.ir
+    </footer>
   );
 }
